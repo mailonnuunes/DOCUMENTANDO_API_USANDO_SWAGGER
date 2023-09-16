@@ -1,0 +1,492 @@
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\bin\Debug\net7.0\appsettings.json
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\bin\Debug\net7.0\APIAlura.exe
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\bin\Debug\net7.0\APIAlura.deps.json
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\bin\Debug\net7.0\APIAlura.runtimeconfig.json
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\bin\Debug\net7.0\APIAlura.dll
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\bin\Debug\net7.0\APIAlura.pdb
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\obj\Debug\net7.0\APIAlura.csproj.AssemblyReference.cache
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\obj\Debug\net7.0\APIAlura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\obj\Debug\net7.0\APIAlura.AssemblyInfoInputs.cache
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\obj\Debug\net7.0\APIAlura.AssemblyInfo.cs
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\obj\Debug\net7.0\APIAlura.csproj.CoreCompileInputs.cache
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\obj\Debug\net7.0\APIAlura.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\obj\Debug\net7.0\APIAlura.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.APIAlura.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.build.APIAlura.props
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.APIAlura.props
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.APIAlura.props
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\obj\Debug\net7.0\scopedcss\bundle\APIAlura.styles.css
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\obj\Debug\net7.0\APIAlura.csproj.CopyComplete
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\obj\Debug\net7.0\APIAlura.dll
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\obj\Debug\net7.0\refint\APIAlura.dll
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\obj\Debug\net7.0\APIAlura.pdb
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\obj\Debug\net7.0\APIAlura.genruntimeconfig.cache
+C:\Users\Mailon\Documents\.NET\APIAlura\APIAlura\obj\Debug\net7.0\ref\APIAlura.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\bin\Debug\net7.0\appsettings.json
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\bin\Debug\net7.0\APIAlura.exe
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\bin\Debug\net7.0\APIAlura.deps.json
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\bin\Debug\net7.0\APIAlura.runtimeconfig.json
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\bin\Debug\net7.0\APIAlura.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\bin\Debug\net7.0\APIAlura.pdb
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\bin\Debug\net7.0\Dapper.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\obj\Debug\net7.0\APIAlura.csproj.AssemblyReference.cache
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\obj\Debug\net7.0\APIAlura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\obj\Debug\net7.0\APIAlura.AssemblyInfoInputs.cache
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\obj\Debug\net7.0\APIAlura.AssemblyInfo.cs
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\obj\Debug\net7.0\APIAlura.csproj.CoreCompileInputs.cache
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\obj\Debug\net7.0\APIAlura.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\obj\Debug\net7.0\APIAlura.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.APIAlura.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.build.APIAlura.props
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.APIAlura.props
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.APIAlura.props
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\obj\Debug\net7.0\scopedcss\bundle\APIAlura.styles.css
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\obj\Debug\net7.0\APIAlura.csproj.CopyComplete
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\obj\Debug\net7.0\APIAlura.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\obj\Debug\net7.0\refint\APIAlura.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\obj\Debug\net7.0\APIAlura.pdb
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\obj\Debug\net7.0\APIAlura.genruntimeconfig.cache
+C:\Users\mailo\OneDrive\Documentos\.net\Dapper\APIAlura\obj\Debug\net7.0\ref\APIAlura.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\appsettings.json
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\APIAlura.exe
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\APIAlura.deps.json
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\APIAlura.runtimeconfig.json
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\APIAlura.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\APIAlura.pdb
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Dapper.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\obj\Debug\net7.0\APIAlura.csproj.AssemblyReference.cache
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\obj\Debug\net7.0\APIAlura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\obj\Debug\net7.0\APIAlura.AssemblyInfoInputs.cache
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\obj\Debug\net7.0\APIAlura.AssemblyInfo.cs
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\obj\Debug\net7.0\APIAlura.csproj.CoreCompileInputs.cache
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\obj\Debug\net7.0\APIAlura.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\obj\Debug\net7.0\APIAlura.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.APIAlura.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.build.APIAlura.props
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.APIAlura.props
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.APIAlura.props
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\obj\Debug\net7.0\scopedcss\bundle\APIAlura.styles.css
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\obj\Debug\net7.0\APIAlura.csproj.CopyComplete
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\obj\Debug\net7.0\APIAlura.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\obj\Debug\net7.0\refint\APIAlura.dll
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\obj\Debug\net7.0\APIAlura.pdb
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\obj\Debug\net7.0\APIAlura.genruntimeconfig.cache
+C:\Users\Mailon\Documents\.NET\ConexaoBDUsandoEFCore\APIAlura\obj\Debug\net7.0\ref\APIAlura.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\appsettings.json
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\APIAlura.exe
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\APIAlura.deps.json
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\APIAlura.runtimeconfig.json
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\APIAlura.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\APIAlura.pdb
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Dapper.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Humanizer.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\obj\Debug\net7.0\APIAlura.csproj.AssemblyReference.cache
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\obj\Debug\net7.0\APIAlura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\obj\Debug\net7.0\APIAlura.AssemblyInfoInputs.cache
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\obj\Debug\net7.0\APIAlura.AssemblyInfo.cs
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\obj\Debug\net7.0\APIAlura.csproj.CoreCompileInputs.cache
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\obj\Debug\net7.0\APIAlura.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\obj\Debug\net7.0\APIAlura.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.APIAlura.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.build.APIAlura.props
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.APIAlura.props
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.APIAlura.props
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\obj\Debug\net7.0\scopedcss\bundle\APIAlura.styles.css
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\obj\Debug\net7.0\APIAlura.csproj.CopyComplete
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\obj\Debug\net7.0\APIAlura.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\obj\Debug\net7.0\refint\APIAlura.dll
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\obj\Debug\net7.0\APIAlura.pdb
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\obj\Debug\net7.0\APIAlura.genruntimeconfig.cache
+C:\Users\mailo\OneDrive\Documentos\.net\Trabalhando com logs com Ilogger\APIAlura\obj\Debug\net7.0\ref\APIAlura.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\appsettings.json
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\APIAlura.exe
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\APIAlura.deps.json
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\APIAlura.runtimeconfig.json
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\APIAlura.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\APIAlura.pdb
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Dapper.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Humanizer.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\obj\Debug\net7.0\APIAlura.csproj.AssemblyReference.cache
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\obj\Debug\net7.0\APIAlura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\obj\Debug\net7.0\APIAlura.AssemblyInfoInputs.cache
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\obj\Debug\net7.0\APIAlura.AssemblyInfo.cs
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\obj\Debug\net7.0\APIAlura.csproj.CoreCompileInputs.cache
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\obj\Debug\net7.0\APIAlura.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\obj\Debug\net7.0\APIAlura.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.APIAlura.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.build.APIAlura.props
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.APIAlura.props
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.APIAlura.props
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\obj\Debug\net7.0\scopedcss\bundle\APIAlura.styles.css
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\obj\Debug\net7.0\APIAlura.csproj.CopyComplete
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\obj\Debug\net7.0\APIAlura.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\obj\Debug\net7.0\refint\APIAlura.dll
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\obj\Debug\net7.0\APIAlura.pdb
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\obj\Debug\net7.0\APIAlura.genruntimeconfig.cache
+C:\Users\mailo\OneDrive\Documentos\.net\TrabalhandoComLogsComLlogger\APIAlura\obj\Debug\net7.0\ref\APIAlura.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\appsettings.json
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\APIAlura.exe
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\APIAlura.deps.json
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\APIAlura.runtimeconfig.json
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\APIAlura.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\APIAlura.pdb
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Dapper.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Humanizer.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\obj\Debug\net7.0\APIAlura.csproj.AssemblyReference.cache
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\obj\Debug\net7.0\APIAlura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\obj\Debug\net7.0\APIAlura.AssemblyInfoInputs.cache
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\obj\Debug\net7.0\APIAlura.AssemblyInfo.cs
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\obj\Debug\net7.0\APIAlura.csproj.CoreCompileInputs.cache
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\obj\Debug\net7.0\APIAlura.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\obj\Debug\net7.0\APIAlura.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.APIAlura.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.build.APIAlura.props
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.APIAlura.props
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.APIAlura.props
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\obj\Debug\net7.0\scopedcss\bundle\APIAlura.styles.css
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\obj\Debug\net7.0\APIAlura.csproj.CopyComplete
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\obj\Debug\net7.0\APIAlura.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\obj\Debug\net7.0\refint\APIAlura.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\obj\Debug\net7.0\APIAlura.pdb
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\obj\Debug\net7.0\APIAlura.genruntimeconfig.cache
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\obj\Debug\net7.0\ref\APIAlura.dll
+C:\Users\mailo\OneDrive\Documentos\.net\AuthenticacaoEAutorizacao\APIAlura\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\appsettings.json
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\APIAlura.exe
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\APIAlura.deps.json
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\APIAlura.runtimeconfig.json
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\APIAlura.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\APIAlura.pdb
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Dapper.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Humanizer.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\obj\Debug\net7.0\APIAlura.csproj.AssemblyReference.cache
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\obj\Debug\net7.0\APIAlura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\obj\Debug\net7.0\APIAlura.AssemblyInfoInputs.cache
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\obj\Debug\net7.0\APIAlura.AssemblyInfo.cs
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\obj\Debug\net7.0\APIAlura.csproj.CoreCompileInputs.cache
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\obj\Debug\net7.0\APIAlura.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\obj\Debug\net7.0\APIAlura.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.APIAlura.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.build.APIAlura.props
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.APIAlura.props
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.APIAlura.props
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\obj\Debug\net7.0\scopedcss\bundle\APIAlura.styles.css
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\obj\Debug\net7.0\APIAlura.csproj.CopyComplete
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\obj\Debug\net7.0\APIAlura.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\obj\Debug\net7.0\refint\APIAlura.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\obj\Debug\net7.0\APIAlura.pdb
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\obj\Debug\net7.0\APIAlura.genruntimeconfig.cache
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\obj\Debug\net7.0\ref\APIAlura.dll
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\bin\Debug\net7.0\APIAlura.xml
+C:\Users\mailo\OneDrive\Documentos\.net\DocumentandoAPI\APIAlura\obj\Debug\net7.0\APIAlura.xml

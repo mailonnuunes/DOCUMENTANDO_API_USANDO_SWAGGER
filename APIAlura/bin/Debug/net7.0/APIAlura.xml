@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>APIAlura</name>
+    </assembly>
+    <members>
+        <member name="M:APIAlura.Controllers.LoginController.Autenticar(APIAlura.Dto.LoginDto)">
+            <summary>
+            Faz a authenticacao utilizando login e senha e gera o token
+            </summary>
+            <param name="usuarioDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:APIAlura.Controllers.UsuarioController.ObterTodosComPedidos(System.Int32)">
+            <summary>
+            Obtem todos os usuarios com pedidos
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:APIAlura.Controllers.UsuarioController.ChamarTodosUsuarios">
+            <summary>
+             Obtem todos os usuarios que estao no banco de dados
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:APIAlura.Controllers.UsuarioController.ChamarUsuarioID(System.Int32)">
+            <summary>
+             Busca um usuario com base no ID no banco de dados
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:APIAlura.Controllers.UsuarioController.CadastrarUsuario(APIAlura.Dto.CadastrarUsuarioDto)">
+            <summary>
+            Cadastra um usuario no banco de dados
+            </summary>
+            <param name="usuarioDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:APIAlura.Controllers.UsuarioController.EditarUsuario(APIAlura.Dto.AlterarUsuarioDto)">
+            <summary>
+            Edita um usuario no banco de dados
+            </summary>
+            <param name="usuarioDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:APIAlura.Controllers.UsuarioController.ExcluirUsuario(System.Int32)">
+            <summary>
+            Exclui um usuario do banco de dados com base no ID
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:APIAlura.Migrations.Adicionando_Usuario_Senha_Permissao">
+            <inheritdoc />
+        </member>
+        <member name="M:APIAlura.Migrations.Adicionando_Usuario_Senha_Permissao.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:APIAlura.Migrations.Adicionando_Usuario_Senha_Permissao.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:APIAlura.Migrations.Adicionando_Usuario_Senha_Permissao.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
